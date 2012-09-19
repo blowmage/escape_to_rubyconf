@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "escape_to_rubyconf"
+
+EscapeToRubyConf.new.show
